@@ -1,6 +1,6 @@
 # Travel Request Application
 
-![Travel Request Application](https://drive.google.com/file/d/1Nl4fSRf0Cxds1Fz-XT6iAZm7zS39yLhj/view?usp=sharing)
+![Travel Request Application](https://drive.google.com/uc?export=view&id=1Nl4fSRf0Cxds1Fz-XT6iAZm7zS39yLhj)
 
 The **Travel Request Application** streamlines and automates the travel request and approval process...
 
